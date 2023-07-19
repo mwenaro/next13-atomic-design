@@ -1,0 +1,1 @@
+export const THOBE_FILTERS =['colour','sleeve','colar','arm'];
